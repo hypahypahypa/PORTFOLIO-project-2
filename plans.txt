@@ -1,2 +1,5 @@
 Проект БД shops
+Ver 1:
+https://erd.dbdesigner.net/designer/schema/1694717324-untitled-152d5405-aefb-49ef-b7bc-cc41fbbcbf4c
+Ver 2:
 https://erd.dbdesigner.net/designer/schema/1694717324-untitled-152d5405-aefb-49ef-b7bc-cc41fbbcbf4c
